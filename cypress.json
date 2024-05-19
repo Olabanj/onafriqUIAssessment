@@ -1,0 +1,11 @@
+{
+    "chromeWebSecurity": false,
+    "viewportHeight": 800,
+    "viewportWidth": 1500,
+    "baseUrl":"https://www.automationexercise.com",
+    "watchForFileChanges": false
+   
+    
+    
+    
+}
